@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **dubeyayush09@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** Vehicle Service Web App
 - 🌱 **I’m currently learning:** DevOps
 - 📫 **How to reach me:** dubeyayush09@gmail.com
-- 😄 **Pronouns:** Ayush Dubey
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ayush.dubey.35) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushhdubey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dubeyayush09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dubeyayush09) 
